@@ -1,0 +1,4 @@
+{
+  "mos.port": "/dev/cu.wchusbserial142110",
+  "mos.board": "ESP8266, flash 1M"
+}
